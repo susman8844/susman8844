@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi im WollyDev also known as Sarah, i can´t really code but im an excelent kustom(kwgt,klck,klwp) creator, here you will mostly find my amazing presets self made an forked
+Hi im WollyDev also known as Sarah or WollyWoll, i can´t really code but im an excelent kustom (kwgt,klck,klwp) creator, here you will mostly find my amazing self made Presets 
 
 
 # 💻 Tech Stack:
